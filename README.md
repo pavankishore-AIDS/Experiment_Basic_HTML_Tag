@@ -14,15 +14,23 @@ Add a paragragh tag to the program
 Execute the program
 
 # CODE
+~~~
+<!DOCTYPE HTML>
 <html>
-
 <body>
-<h1>Name:pavan kishore</h1>
-<h3>reg no:21002328/h3>
-<h5>Dept.:Artificial Intelligence and Data Science</h5>
+<h1>Name:Pavan kishore.M</h1>
+<h2>refno.21002328</h2>
+<h3>Dept:Artificial intelligence and data science</h3>
 </body>
-
 </html>
-Name: pavan kishore
-reg no:21002328
-Dept.:Artificial Intelligence and Data Science
+~~~
+
+# OUPUT
+<!DOCTYPE HTML>
+<html>
+<body>
+<h1>Name:Pavan kishore.M</h1>
+<h2>refno.21002328</h2>
+<h3>Dept:Artificial intelligence and data science</h3>
+</body>
+</html>
